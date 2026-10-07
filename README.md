@@ -58,3 +58,9 @@ Theorems:
 - `V_pos_of_odd_duck`
 - `excitationCost_eq`, `cost_pos`
 
+## Build
+
+```bash
+lake update
+lake build
+```
